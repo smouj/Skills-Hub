@@ -17,7 +17,7 @@ for d in "$ROOT"/*; do
   [[ -d "$d" ]] || continue
   echo "Checking $(basename "$d")"
 
-  for f in SKILL.md SKILL.es.md README.md; do
+  for f in SKILL.md SKILL.es.md README.md README.es.md; do
     if [[ ! -f "$d/$f" ]]; then
       echo "  ✗ missing $f"
       FAIL=1
@@ -38,10 +38,23 @@ for d in "$ROOT"/*; do
   fi
 
   if [[ -f "$d/README.md" ]]; then
-    check_contains "$d/README.md" -i 'what'
-    check_contains "$d/README.md" -i 'inputs\|outputs'
+    check_contains "$d/README.md" -i 'Language: English'
+    check_contains "$d/README.md" -i 'Idioma: Español'
+    check_contains "$d/README.md" -i 'overview'
+    check_contains "$d/README.md" -i 'inputs'
+    check_contains "$d/README.md" -i 'outputs'
     check_contains "$d/README.md" -i 'limits\|guardrails'
     check_contains "$d/README.md" -i 'troubleshooting'
+  fi
+
+  if [[ -f "$d/README.es.md" ]]; then
+    check_contains "$d/README.es.md" -i 'Language: English'
+    check_contains "$d/README.es.md" -i 'Idioma: Español'
+    check_contains "$d/README.es.md" -i 'descripci'
+    check_contains "$d/README.es.md" -i 'entradas'
+    check_contains "$d/README.es.md" -i 'salidas'
+    check_contains "$d/README.es.md" -i 'límite\|guardrails'
+    check_contains "$d/README.es.md" -i 'troubleshooting'
   fi
 
   echo "  ✓ done"

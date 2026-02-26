@@ -79,7 +79,12 @@ Sigue estos pasos **en orden estricto**:
 ## Requisitos obligatorios de entrega por skill
 - `SKILL.md` (inglés) **adaptado a la lógica real** de la skill.
 - `SKILL.es.md` (español) **adaptado a la lógica real** de la skill.
-- `README.md` súper explicativo con:
+- `README.md` (inglés) súper explicativo.
+- `README.es.md` (español) equivalente y coherente con el README en inglés.
+- Ambos README deben incluir badges de idioma con enlaces cruzados:
+  - English badge → `README.md`
+  - Español badge → `README.es.md`
+- `README.md` debe incluir:
   - qué resuelve,
   - cuándo se activa,
   - ejemplos reales de uso,
