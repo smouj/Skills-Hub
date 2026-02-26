@@ -24,7 +24,6 @@
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Temporal drift monitor + forced replanning | Initiating |
 | 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage + safe patch planning | Initiating |
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | SBOM + provenance verification + release gate controls | Initiating |
-
 | 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage, and rollback-first remediation plans | Initiating |
 | 📈 | SLO Warden | [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | SLO burn-rate triage + rollback-first incident decisions | Initiating |
 
@@ -45,4 +44,3 @@ This hub is the source of catalog truth and links every skill repository.
 - Workflow: `.github/workflows/sync-skills-index.yml`
 - Output: `LAST_SYNC.md`
 - Schedule: every 6 hours + manual dispatch
-
