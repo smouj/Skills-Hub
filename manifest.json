@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-02-26T09:57:34.588998Z",
+  "updatedAt": "2026-02-26T11:18:51Z",
   "skills": [
     {
       "name": "Aegis Veil",
@@ -87,6 +87,14 @@
       "repo": "smouj/Vuln-Warden",
       "emoji": "🩹",
       "tag": "security-maintenance",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Provenance Guard",
+      "repo": "smouj/Provenance-Guard",
+      "emoji": "🧾",
+      "tag": "supply-chain-security",
       "status": "Initiating",
       "defaultBranch": "main"
     }

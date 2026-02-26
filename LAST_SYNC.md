@@ -1,7 +1,7 @@
 # Last Sync Report
 
-- Timestamp (UTC): 2026-02-26T10:56:00Z
-- Checked repos: 11
+- Timestamp (UTC): 2026-02-26T11:18:52Z
+- Checked repos: 12
 
 ## Availability
 - ✅ smouj/Aegis-Veil
@@ -15,6 +15,7 @@
 - ✅ smouj/Alchemurgist
 - ✅ smouj/Chrono-Ward
 - ✅ smouj/Vuln-Warden
+- ✅ smouj/Provenance-Guard
 
-- Success: 11
+- Success: 12
 - Failed: 0
