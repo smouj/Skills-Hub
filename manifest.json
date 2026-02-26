@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-02-26T11:18:51Z",
+  "updatedAt": "2026-02-26T12:54:56Z",
   "skills": [
     {
       "name": "Aegis Veil",
@@ -95,6 +95,14 @@
       "repo": "smouj/Provenance-Guard",
       "emoji": "🧾",
       "tag": "supply-chain-security",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Vault Sentry",
+      "repo": "smouj/Vault-Sentry",
+      "emoji": "🔐",
+      "tag": "secret-security",
       "status": "Initiating",
       "defaultBranch": "main"
     }
