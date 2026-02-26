@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-02-26T12:54:56Z",
+  "updatedAt": "2026-02-26T14:43:37Z",
   "skills": [
     {
       "name": "Aegis Veil",
@@ -103,6 +103,14 @@
       "repo": "smouj/Vault-Sentry",
       "emoji": "🔐",
       "tag": "secret-security",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "SLO Warden",
+      "repo": "smouj/SLO-Warden",
+      "emoji": "📈",
+      "tag": "reliability-operations",
       "status": "Initiating",
       "defaultBranch": "main"
     }

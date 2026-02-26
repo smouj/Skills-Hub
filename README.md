@@ -26,6 +26,7 @@
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | SBOM + provenance verification + release gate controls | Initiating |
 
 | 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage, and rollback-first remediation plans | Initiating |
+| 📈 | SLO Warden | [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | SLO burn-rate triage + rollback-first incident decisions | Initiating |
 
 ---
 
