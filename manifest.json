@@ -1,7 +1,15 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-02-26T12:54:56Z",
+  "updatedAt": "2026-02-26T16:40:00Z",
   "skills": [
+    {
+      "name": "Abyss Scanner",
+      "repo": "smouj/Abyss-Scanner",
+      "emoji": "🔍",
+      "tag": "automation",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
     {
       "name": "Aegis Veil",
       "repo": "smouj/Aegis-Veil",
@@ -11,66 +19,10 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Phoenix Reborn",
-      "repo": "smouj/Phoenix-Reborn",
-      "emoji": "🔄",
-      "tag": "reliability",
-      "status": "Initiating",
-      "defaultBranch": "main"
-    },
-    {
-      "name": "Genome Weaver",
-      "repo": "smouj/Genome-Weaver",
-      "emoji": "🧬",
-      "tag": "evolution",
-      "status": "Initiating",
-      "defaultBranch": "main"
-    },
-    {
-      "name": "Shadow Ledger",
-      "repo": "smouj/Shadow-Ledger",
-      "emoji": "🌑",
-      "tag": "audit",
-      "status": "Initiating",
-      "defaultBranch": "main"
-    },
-    {
-      "name": "Flux Capacitor",
-      "repo": "smouj/Flux-Capacitor",
-      "emoji": "⚡",
-      "tag": "optimization",
-      "status": "Initiating",
-      "defaultBranch": "main"
-    },
-    {
-      "name": "Mirror Council",
-      "repo": "smouj/Mirror-Council",
-      "emoji": "🧠",
-      "tag": "multi-agent",
-      "status": "Initiating",
-      "defaultBranch": "main"
-    },
-    {
-      "name": "Abyss Scanner",
-      "repo": "smouj/Abyss-Scanner",
-      "emoji": "🔍",
-      "tag": "osint",
-      "status": "Initiating",
-      "defaultBranch": "main"
-    },
-    {
-      "name": "Codex Eternal",
-      "repo": "smouj/Codex-Eternal",
-      "emoji": "📜",
-      "tag": "memory",
-      "status": "Initiating",
-      "defaultBranch": "main"
-    },
-    {
       "name": "Alchemurgist",
       "repo": "smouj/Alchemurgist",
       "emoji": "🧪",
-      "tag": "transformation",
+      "tag": "automation",
       "status": "Initiating",
       "defaultBranch": "main"
     },
@@ -78,15 +30,47 @@
       "name": "Chrono Ward",
       "repo": "smouj/Chrono-Ward",
       "emoji": "⏳",
-      "tag": "planning",
+      "tag": "automation",
       "status": "Initiating",
       "defaultBranch": "main"
     },
     {
-      "name": "Vuln Warden",
-      "repo": "smouj/Vuln-Warden",
-      "emoji": "🩹",
-      "tag": "security-maintenance",
+      "name": "Codex Eternal",
+      "repo": "smouj/Codex-Eternal",
+      "emoji": "📜",
+      "tag": "automation",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Flux Capacitor",
+      "repo": "smouj/Flux-Capacitor",
+      "emoji": "⚡",
+      "tag": "automation",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Genome Weaver",
+      "repo": "smouj/Genome-Weaver",
+      "emoji": "🧬",
+      "tag": "automation",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Mirror Council",
+      "repo": "smouj/Mirror-Council",
+      "emoji": "🧠",
+      "tag": "automation",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Phoenix Reborn",
+      "repo": "smouj/Phoenix-Reborn",
+      "emoji": "🔄",
+      "tag": "automation",
       "status": "Initiating",
       "defaultBranch": "main"
     },
@@ -94,7 +78,23 @@
       "name": "Provenance Guard",
       "repo": "smouj/Provenance-Guard",
       "emoji": "🧾",
-      "tag": "supply-chain-security",
+      "tag": "security",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Shadow Ledger",
+      "repo": "smouj/Shadow-Ledger",
+      "emoji": "🌑",
+      "tag": "automation",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Signal Bastion",
+      "repo": "smouj/Signal-Bastion",
+      "emoji": "📡",
+      "tag": "security",
       "status": "Initiating",
       "defaultBranch": "main"
     },
@@ -102,7 +102,15 @@
       "name": "Vault Sentry",
       "repo": "smouj/Vault-Sentry",
       "emoji": "🔐",
-      "tag": "secret-security",
+      "tag": "security",
+      "status": "Initiating",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Vuln Warden",
+      "repo": "smouj/Vuln-Warden",
+      "emoji": "🩹",
+      "tag": "security",
       "status": "Initiating",
       "defaultBranch": "main"
     }

@@ -12,20 +12,20 @@
 
 | Emoji | Skill | Repository | Purpose | Status |
 |---|---|---|---|---|
-| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Prompt-injection / skill-poisoning shield | Initiating |
-| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Auto-recovery and post-failure evolution | Initiating |
-| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Darwinian generation/evaluation of skill variants | Initiating |
-| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Encrypted local audit ledger | Initiating |
-| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Compute/token optimizer | Initiating |
-| 🧠 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Internal multi-agent council | Initiating |
 | 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Stealth OSINT/deep-surface scanner | Initiating |
-| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Compressed embeddings + local RAG memory | Initiating |
+| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Prompt-injection / skill-poisoning shield | Initiating |
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Legacy format transmutation to markdown/JSON | Initiating |
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Temporal drift monitor + forced replanning | Initiating |
-| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage + safe patch planning | Initiating |
+| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Compressed embeddings + local RAG memory | Initiating |
+| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Compute/token optimizer | Initiating |
+| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Darwinian generation/evaluation of skill variants | Initiating |
+| 🧠 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Internal multi-agent council | Initiating |
+| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Auto-recovery and post-failure evolution | Initiating |
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | SBOM + provenance verification + release gate controls | Initiating |
-
+| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Encrypted local audit ledger | Initiating |
+| 📡 | Signal Bastion | [smouj/Signal-Bastion](https://github.com/smouj/Signal-Bastion) | Safe outbound messaging guardrails, redaction, and recipient validation | Initiating |
 | 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage, and rollback-first remediation plans | Initiating |
+| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage + safe patch planning | Initiating |
 
 ---
 
