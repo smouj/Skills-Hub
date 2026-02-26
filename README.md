@@ -25,6 +25,8 @@
 | 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage + safe patch planning | Initiating |
 | 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | SBOM + provenance verification + release gate controls | Initiating |
 
+| 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage, and rollback-first remediation plans | Initiating |
+
 ---
 
 ## 🔁 Sync Model
