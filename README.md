@@ -22,6 +22,7 @@
 | 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Compressed embeddings + local RAG memory | Initiating |
 | 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Legacy format transmutation to markdown/JSON | Initiating |
 | ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Temporal drift monitor + forced replanning | Initiating |
+| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage + safe patch planning | Initiating |
 
 ---
 
