@@ -13,6 +13,15 @@ check_contains() {
   fi
 }
 
+check_contains_i() {
+  local file="$1"
+  local pattern="$2"
+  if ! grep -qi "$pattern" "$file"; then
+    echo "  ✗ missing pattern '$pattern' in $(basename "$file")"
+    FAIL=1
+  fi
+}
+
 for d in "$ROOT"/*; do
   [[ -d "$d" ]] || continue
   echo "Checking $(basename "$d")"
@@ -38,23 +47,23 @@ for d in "$ROOT"/*; do
   fi
 
   if [[ -f "$d/README.md" ]]; then
-    check_contains "$d/README.md" -i 'Language: English'
-    check_contains "$d/README.md" -i 'Idioma: Español'
-    check_contains "$d/README.md" -i 'overview'
-    check_contains "$d/README.md" -i 'inputs'
-    check_contains "$d/README.md" -i 'outputs'
-    check_contains "$d/README.md" -i 'limits\|guardrails'
-    check_contains "$d/README.md" -i 'troubleshooting'
+    check_contains_i "$d/README.md" 'Language: English'
+    check_contains_i "$d/README.md" 'Idioma: Español'
+    check_contains_i "$d/README.md" 'overview'
+    check_contains_i "$d/README.md" 'inputs'
+    check_contains_i "$d/README.md" 'outputs'
+    check_contains_i "$d/README.md" 'guardrails'
+    check_contains_i "$d/README.md" 'troubleshooting'
   fi
 
   if [[ -f "$d/README.es.md" ]]; then
-    check_contains "$d/README.es.md" -i 'Language: English'
-    check_contains "$d/README.es.md" -i 'Idioma: Español'
-    check_contains "$d/README.es.md" -i 'descripci'
-    check_contains "$d/README.es.md" -i 'entradas'
-    check_contains "$d/README.es.md" -i 'salidas'
-    check_contains "$d/README.es.md" -i 'límite\|guardrails'
-    check_contains "$d/README.es.md" -i 'troubleshooting'
+    check_contains_i "$d/README.es.md" 'Language: English'
+    check_contains_i "$d/README.es.md" 'Idioma: Español'
+    check_contains_i "$d/README.es.md" 'descripci'
+    check_contains_i "$d/README.es.md" 'entradas'
+    check_contains_i "$d/README.es.md" 'salidas'
+    check_contains_i "$d/README.es.md" 'guardrails'
+    check_contains_i "$d/README.es.md" 'troubleshooting'
   fi
 
   echo "  ✓ done"
