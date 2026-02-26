@@ -1,46 +1,69 @@
 # 🧩 Skills Hub
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Skills-Hub-111827?style=for-the-badge&logo=github" alt="Skills Hub" />
-</p>
+Canonical hub for Smouj skills. This repository defines **standards**, **catalog metadata**, and **quality gates** for every skill repository.
 
-<p align="center"><em>Canonical index of all smouj skills repositories, status and synchronization signals.</em></p>
+## What this repo governs
 
----
+- Global skill template (`TEMPLATE_SKILL.md`)
+- Catalog and sync metadata (`manifest.json`, `LAST_SYNC.md`)
+- Validation scripts for skill structure and required files
+- Automation workflow for index synchronization
 
-## 📚 Skills Catalog
+## Mandatory standard for every skill
 
-| Emoji | Skill | Repository | Purpose | Status |
-|---|---|---|---|---|
-| 🛡️ | Aegis Veil | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | Prompt-injection / skill-poisoning shield | Initiating |
-| 🔄 | Phoenix Reborn | [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | Auto-recovery and post-failure evolution | Initiating |
-| 🧬 | Genome Weaver | [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | Darwinian generation/evaluation of skill variants | Initiating |
-| 🌑 | Shadow Ledger | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | Encrypted local audit ledger | Initiating |
-| ⚡ | Flux Capacitor | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | Compute/token optimizer | Initiating |
-| 🧠 | Mirror Council | [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | Internal multi-agent council | Initiating |
-| 🔍 | Abyss Scanner | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | Stealth OSINT/deep-surface scanner | Initiating |
-| 📜 | Codex Eternal | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | Compressed embeddings + local RAG memory | Initiating |
-| 🧪 | Alchemurgist | [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | Legacy format transmutation to markdown/JSON | Initiating |
-| ⏳ | Chrono Ward | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | Temporal drift monitor + forced replanning | Initiating |
-| 🩹 | Vuln Warden | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | Dependency vulnerability triage + safe patch planning | Initiating |
-| 🧾 | Provenance Guard | [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | SBOM + provenance verification + release gate controls | Initiating |
-| 🔐 | Vault Sentry | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | Secret leak detection, triage, and rollback-first remediation plans | Initiating |
-| 📈 | SLO Warden | [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | SLO burn-rate triage + rollback-first incident decisions | Initiating |
+Every skill must include:
 
----
+1. `SKILL.md` (EN)
+2. `SKILL.es.md` (ES)
+3. `README.md` (super explanatory)
 
-## 🔁 Sync Model
+And both SKILL files must follow the unified template with:
 
-This hub is the source of catalog truth and links every skill repository.
+- YAML metadata (`name`, `description`, `version`, `tags`, `metadata`)
+- Triggers (when to use / when not to use)
+- Mandatory process (analysis → plan → execution → validation)
+- Golden rules and absolute priority
+- Required output format
 
-- Each skill repo owns implementation and releases.
-- This hub tracks metadata consistency (`name`, `purpose`, `status`).
-- A scheduled workflow validates repository availability and updates `LAST_SYNC.md`.
+## README quality requirements (per skill)
 
----
+`README.md` must clearly explain:
 
-## 🛠️ Automation
+- What the skill does
+- When to activate it
+- Real examples
+- Inputs / outputs
+- Limits and guardrails
+- Security notes
+- Troubleshooting steps
+
+## Telegram reporting requirement (for automation runs)
+
+Every automation report must include, **for each skill**:
+
+- Skill name
+- Objective
+- Key capabilities
+- Triggers
+- Files created/updated
+- Final status (`OK` / `WARN`)
+
+## Quick commands
+
+```bash
+# Validate all local skill repos cloned under ./skills
+bash scripts/validate-all.sh ./skills
+
+# Clone/pull all repos from manifest
+bash scripts/install-all.sh ./skills
+```
+
+## Catalog source
+
+- `manifest.json` is the source of truth for tracked skill repositories.
+- `LAST_SYNC.md` is updated by automation.
+
+## Automation
 
 - Workflow: `.github/workflows/sync-skills-index.yml`
-- Output: `LAST_SYNC.md`
 - Schedule: every 6 hours + manual dispatch
