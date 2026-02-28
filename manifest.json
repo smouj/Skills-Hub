@@ -208,6 +208,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "Threat Detect",
+      "repo": "smouj/threat-detect-skill",
+      "emoji": "\ud83c\udfaf",
+      "tag": "threat",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
