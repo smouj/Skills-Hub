@@ -307,6 +307,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "code-review",
+      "repo": "smouj/code-review-skill",
+      "emoji": "\ud83d\udcca",
+      "tag": "code",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
