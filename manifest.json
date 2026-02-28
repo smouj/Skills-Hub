@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-02-27T09:49:00Z",
+  "updatedAt": "2026-02-28T02:41:00Z",
   "skills": [
     {
       "name": "Abyss Scanner",
@@ -8,7 +8,7 @@
       "emoji": "\ud83d\udd0d",
       "tag": "osint",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -17,7 +17,7 @@
       "emoji": "\ud83d\udee1\ufe0f",
       "tag": "security",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -26,7 +26,7 @@
       "emoji": "\ud83e\uddea",
       "tag": "transformation",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -35,7 +35,7 @@
       "emoji": "\u23f3",
       "tag": "planning",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -44,7 +44,7 @@
       "emoji": "\ud83d\udcdc",
       "tag": "memory",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -53,7 +53,7 @@
       "emoji": "\u26a1",
       "tag": "optimization",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -62,7 +62,7 @@
       "emoji": "\ud83e\uddec",
       "tag": "evolution",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -71,7 +71,7 @@
       "emoji": "\ud83e\udde0",
       "tag": "multi-agent",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -80,7 +80,7 @@
       "emoji": "\ud83d\udd04",
       "tag": "reliability",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -89,7 +89,7 @@
       "emoji": "\ud83e\uddfe",
       "tag": "supply-chain-security",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -98,7 +98,7 @@
       "emoji": "\ud83d\udcc8",
       "tag": "reliability-operations",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -107,7 +107,7 @@
       "emoji": "\ud83c\udf11",
       "tag": "audit",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -116,7 +116,7 @@
       "emoji": "\ud83d\udd10",
       "tag": "secret-security",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
@@ -125,83 +125,68 @@
       "emoji": "\ud83e\ude79",
       "tag": "security-maintenance",
       "status": "Ready",
-      "version": "1.0.1",
+      "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
-      "name": "skill-1772229421",
-      "repo": "smouj/skill-1772229421",
-      "emoji": "\u2699\ufe0f",
-      "status": "active"
-    },
-    {
-      "name": "skill-1772229730",
-      "repo": "smouj/skill-1772229730",
-      "emoji": "\u2699\ufe0f",
-      "status": "active"
-    },
-    {
-      "name": "skill-1772230041",
-      "repo": "smouj/skill-1772230041",
-      "emoji": "\u2699\ufe0f",
-      "status": "active"
-    },
-    {
-      "name": "skill-1772238243",
-      "repo": "smouj/skill-1772238243",
-      "emoji": "\u2699\ufe0f",
-      "status": "active"
-    },
-    {
-      "name": "cloud-deploy",
+      "name": "Cloud Deploy",
       "repo": "smouj/cloud-deploy-skill",
-      "emoji": "\ud83d\udca1",
-      "tag": "cloud",
+      "emoji": "\ud83d\ude80",
+      "tag": "devops",
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
-      "name": "db-optimize",
+      "name": "DB Optimize",
       "repo": "smouj/db-optimize-skill",
-      "emoji": "\ud83d\udcca",
-      "tag": "db",
+      "emoji": "\ud83d\udcbe",
+      "tag": "devops",
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
-      "name": "seo-audit",
+      "name": "SEO Audit",
       "repo": "smouj/seo-audit-skill",
-      "emoji": "\ud83d\udd27",
+      "emoji": "\ud83d\udd0d",
       "tag": "seo",
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
-      "name": "log-analyze",
+      "name": "Log Analyze",
       "repo": "smouj/log-analyze-skill",
-      "emoji": "\ud83d\ude80",
-      "tag": "log",
+      "emoji": "\ud83d\udcca",
+      "tag": "analysis",
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
-      "name": "backup-manager",
+      "name": "Backup Manager",
       "repo": "smouj/backup-manager-skill",
-      "emoji": "\ud83d\udca1",
-      "tag": "backup",
+      "emoji": "\ud83d\udcb0",
+      "tag": "devops",
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
     },
     {
-      "name": "security-scan",
+      "name": "Security Scan",
       "repo": "smouj/security-scan-skill",
-      "emoji": "\u2728",
+      "emoji": "\ud83d\udee1\ufe0f",
       "tag": "security",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
+    },
+    {
+      "name": "Test Gen",
+      "repo": "smouj/test-gen-skill",
+      "emoji": "\ud83e\uddea",
+      "tag": "coding",
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
