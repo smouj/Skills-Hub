@@ -378,6 +378,7 @@ All PRs must pass local validation before review. PRs that break existing skills
 ## Ecosystem Links
 
 | Repository | Description |
+| [smouj/threat-detect-skill](https://github.com/smouj/threat-detect-skill) | 🎯 Threat Detect skill |
 |---|---|
 
 > Full catalog: [`manifest.json`](manifest.json)
