@@ -378,29 +378,7 @@ All PRs must pass local validation before review. PRs that break existing skills
 ## Ecosystem Links
 
 | Repository | Description |
-| [smouj/ci-cd-pipeline-skill](https://github.com/smouj/ci-cd-pipeline-skill) | 📋 Ci Cd Pipeline skill |
 |---|---|
-| [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | 🔍 OSINT reconnaissance skill |
-| [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | 🛡️ Security hardening skill |
-| [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | 🧪 Data transformation skill |
-| [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | ⏳ Planning and scheduling skill |
-| [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | 📜 Memory and knowledge management skill |
-| [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | ⚡ Performance optimization skill |
-| [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | 🧬 Evolutionary design skill |
-| [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | 🧠 Multi-agent deliberation skill |
-| [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | 🔄 Reliability and recovery skill |
-| [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | 🧾 Supply chain security skill |
-| [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | 📈 SLO monitoring and operations skill |
-| [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | 🌑 Audit and traceability skill |
-| [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | 🔐 Secret and credential security skill |
-| [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | 🩹 Vulnerability management skill |
-| [smouj/cloud-deploy-skill](https://github.com/smouj/cloud-deploy-skill) | 🚀 Cloud deployment skill |
-| [smouj/db-optimize-skill](https://github.com/smouj/db-optimize-skill) | 💾 Database optimization skill |
-| [smouj/seo-audit-skill](https://github.com/smouj/seo-audit-skill) | 🔍 SEO audit skill |
-| [smouj/log-analyze-skill](https://github.com/smouj/log-analyze-skill) | 📊 Log analysis skill |
-| [smouj/backup-manager-skill](https://github.com/smouj/backup-manager-skill) | 💰 Backup management skill |
-| [smouj/security-scan-skill](https://github.com/smouj/security-scan-skill) | 🛡️ Security scanning skill |
-| [smouj/test-gen-skill](https://github.com/smouj/test-gen-skill) | 🧪 Test generation skill |
 
 > Full catalog: [`manifest.json`](manifest.json)
 
