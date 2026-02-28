@@ -378,6 +378,7 @@ All PRs must pass local validation before review. PRs that break existing skills
 ## Ecosystem Links
 
 | Repository | Description |
+| [smouj/metric-insights-skill](https://github.com/smouj/metric-insights-skill) | 📈 Metric Insights skill |
 | [smouj/prompt-engineer-skill](https://github.com/smouj/prompt-engineer-skill) | 🎯 Prompt Engineer skill |
 | [smouj/code-refactor-skill](https://github.com/smouj/code-refactor-skill) | ⚡ Code Refactorer skill |
 |---|---|
