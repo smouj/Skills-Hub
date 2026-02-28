@@ -407,12 +407,13 @@ All PRs must pass local validation before review. PRs that break existing skills
 | [smouj/data-prep-skill](https://github.com/smouj/data-prep-skill) | 📊 Data Prep skill |
 | [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | 🐳 Container Orch skill |
 
-## License
+
+
+
+---
 
 ## License
 
 MIT © [smouj](https://github.com/smouj)
-
----
 
 <sub>Skills Hub is part of the OpenClaw ecosystem — a multi-agent orchestration framework built for precision, reliability, and scale.</sub>
