@@ -326,7 +326,7 @@ The `send-telegram-report.sh` script sends a structured message to the configure
 ✅ Available: 17
 ❌ Unavailable: 0
 
-— Skill: Abyss Scanner
+— Skill: abyss-scanner
   Objective: OSINT reconnaissance
   Status: ✅ OK
 
@@ -378,11 +378,11 @@ All PRs must pass local validation before review. PRs that break existing skills
 ## Ecosystem Links
 
 | Repository | Description |
-| [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | 💾 Container Orchestrator skill |
+| [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | 💾 container-orch skill |
 |---|---|
 | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | 🔍 OSINT reconnaissance skill |
 | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | 🛡️ Security hardening skill |
-| [smouj/Alchemurgist](https://github.com/smouj/Alchemurgist) | 🧪 Data transformation skill |
+| [smouj/alchemurgist](https://github.com/smouj/alchemurgist) | 🧪 Data transformation skill |
 | [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | ⏳ Planning and scheduling skill |
 | [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | 📜 Memory and knowledge management skill |
 | [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | ⚡ Performance optimization skill |

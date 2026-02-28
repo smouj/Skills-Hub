@@ -3,8 +3,8 @@
   "updatedAt": "2026-02-28T02:41:00Z",
   "skills": [
     {
-      "name": "Abyss Scanner",
-      "repo": "smouj/Abyss-Scanner",
+      "name": "abyss-scanner",
+      "repo": "smouj/abyss-scanner-skill",
       "emoji": "\ud83d\udd0d",
       "tag": "osint",
       "status": "Ready",
@@ -12,8 +12,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Aegis Veil",
-      "repo": "smouj/Aegis-Veil",
+      "name": "aegis-veil",
+      "repo": "smouj/aegis-veil-skill",
       "emoji": "\ud83d\udee1\ufe0f",
       "tag": "security",
       "status": "Ready",
@@ -21,8 +21,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Alchemurgist",
-      "repo": "smouj/Alchemurgist",
+      "name": "alchemurgist",
+      "repo": "smouj/alchemurgist-skill",
       "emoji": "\ud83e\uddea",
       "tag": "transformation",
       "status": "Ready",
@@ -30,8 +30,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Chrono Ward",
-      "repo": "smouj/Chrono-Ward",
+      "name": "chrono-ward",
+      "repo": "smouj/chrono-ward-skill",
       "emoji": "\u23f3",
       "tag": "planning",
       "status": "Ready",
@@ -39,8 +39,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Codex Eternal",
-      "repo": "smouj/Codex-Eternal",
+      "name": "codex-eternal",
+      "repo": "smouj/codex-eternal-skill",
       "emoji": "\ud83d\udcdc",
       "tag": "memory",
       "status": "Ready",
@@ -48,8 +48,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Flux Capacitor",
-      "repo": "smouj/Flux-Capacitor",
+      "name": "flux-capacitor",
+      "repo": "smouj/flux-capacitor-skill",
       "emoji": "\u26a1",
       "tag": "optimization",
       "status": "Ready",
@@ -57,8 +57,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Genome Weaver",
-      "repo": "smouj/Genome-Weaver",
+      "name": "genome-weaver",
+      "repo": "smouj/genome-weaver-skill",
       "emoji": "\ud83e\uddec",
       "tag": "evolution",
       "status": "Ready",
@@ -66,8 +66,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Mirror Council",
-      "repo": "smouj/Mirror-Council",
+      "name": "mirror-council",
+      "repo": "smouj/mirror-council-skill",
       "emoji": "\ud83e\udde0",
       "tag": "multi-agent",
       "status": "Ready",
@@ -75,8 +75,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Phoenix Reborn",
-      "repo": "smouj/Phoenix-Reborn",
+      "name": "phoenix-reborn",
+      "repo": "smouj/phoenix-reborn-skill",
       "emoji": "\ud83d\udd04",
       "tag": "reliability",
       "status": "Ready",
@@ -84,8 +84,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Provenance Guard",
-      "repo": "smouj/Provenance-Guard",
+      "name": "provenance-guard",
+      "repo": "smouj/provenance-guard-skill",
       "emoji": "\ud83e\uddfe",
       "tag": "supply-chain-security",
       "status": "Ready",
@@ -93,8 +93,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "SLO Warden",
-      "repo": "smouj/SLO-Warden",
+      "name": "slo-warden",
+      "repo": "smouj/slo-warden-skill",
       "emoji": "\ud83d\udcc8",
       "tag": "reliability-operations",
       "status": "Ready",
@@ -102,8 +102,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Shadow Ledger",
-      "repo": "smouj/Shadow-Ledger",
+      "name": "shadow-ledger",
+      "repo": "smouj/shadow-ledger-skill",
       "emoji": "\ud83c\udf11",
       "tag": "audit",
       "status": "Ready",
@@ -111,8 +111,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Vault Sentry",
-      "repo": "smouj/Vault-Sentry",
+      "name": "vault-sentry",
+      "repo": "smouj/vault-sentry-skill",
       "emoji": "\ud83d\udd10",
       "tag": "secret-security",
       "status": "Ready",
@@ -120,8 +120,8 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Vuln Warden",
-      "repo": "smouj/Vuln-Warden",
+      "name": "vuln-warden",
+      "repo": "smouj/vuln-warden-skill",
       "emoji": "\ud83e\ude79",
       "tag": "security-maintenance",
       "status": "Ready",
@@ -129,7 +129,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Cloud Deploy",
+      "name": "cloud-deploy",
       "repo": "smouj/cloud-deploy-skill",
       "emoji": "\ud83d\ude80",
       "tag": "devops",
@@ -138,7 +138,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "DB Optimize",
+      "name": "db-optimize",
       "repo": "smouj/db-optimize-skill",
       "emoji": "\ud83d\udcbe",
       "tag": "devops",
@@ -147,7 +147,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "SEO Audit",
+      "name": "seo-audit",
       "repo": "smouj/seo-audit-skill",
       "emoji": "\ud83d\udd0d",
       "tag": "seo",
@@ -156,7 +156,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Log Analyze",
+      "name": "log-analyze",
       "repo": "smouj/log-analyze-skill",
       "emoji": "\ud83d\udcca",
       "tag": "analysis",
@@ -165,7 +165,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Backup Manager",
+      "name": "backup-manager",
       "repo": "smouj/backup-manager-skill",
       "emoji": "\ud83d\udcb0",
       "tag": "devops",
@@ -174,7 +174,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Security Scan",
+      "name": "security-scan",
       "repo": "smouj/security-scan-skill",
       "emoji": "\ud83d\udee1\ufe0f",
       "tag": "security",
@@ -183,7 +183,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Test Gen",
+      "name": "test-gen",
       "repo": "smouj/test-gen-skill",
       "emoji": "\ud83e\uddea",
       "tag": "coding",
@@ -201,7 +201,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Ci Cd Pipeline",
+      "name": "ci-cd-pipeline",
       "repo": "smouj/ci-cd-pipeline-skill",
       "emoji": "\ud83d\udccb",
       "tag": "ci",
@@ -210,7 +210,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Threat Detect",
+      "name": "threat-detect",
       "repo": "smouj/threat-detect-skill",
       "emoji": "\ud83c\udfaf",
       "tag": "threat",
@@ -219,7 +219,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Api Generator",
+      "name": "api-generator",
       "repo": "smouj/api-generator-skill",
       "emoji": "\ud83d\udcbe",
       "tag": "api",
@@ -228,7 +228,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Data Preparator",
+      "name": "data-prep",
       "repo": "smouj/data-prep-skill",
       "emoji": "\ud83d\udcca",
       "tag": "data",
@@ -237,7 +237,7 @@
       "defaultBranch": "main"
     },
     {
-      "name": "Container Orchestrator",
+      "name": "container-orch",
       "repo": "smouj/container-orch-skill",
       "emoji": "\ud83d\udcbe",
       "tag": "container",
