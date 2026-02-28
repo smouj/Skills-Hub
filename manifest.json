@@ -5,7 +5,7 @@
     {
       "name": "Abyss Scanner",
       "repo": "smouj/Abyss-Scanner",
-      "emoji": "\ud83d\udd0d",
+      "emoji": "🔍",
       "tag": "osint",
       "status": "Ready",
       "version": "1.0.1",
@@ -14,7 +14,7 @@
     {
       "name": "Aegis Veil",
       "repo": "smouj/Aegis-Veil",
-      "emoji": "\ud83d\udee1\ufe0f",
+      "emoji": "🛡️",
       "tag": "security",
       "status": "Ready",
       "version": "1.0.1",
@@ -23,7 +23,7 @@
     {
       "name": "Alchemurgist",
       "repo": "smouj/Alchemurgist",
-      "emoji": "\ud83e\uddea",
+      "emoji": "🧪",
       "tag": "transformation",
       "status": "Ready",
       "version": "1.0.1",
@@ -32,7 +32,7 @@
     {
       "name": "Chrono Ward",
       "repo": "smouj/Chrono-Ward",
-      "emoji": "\u23f3",
+      "emoji": "⏳",
       "tag": "planning",
       "status": "Ready",
       "version": "1.0.1",
@@ -41,7 +41,7 @@
     {
       "name": "Codex Eternal",
       "repo": "smouj/Codex-Eternal",
-      "emoji": "\ud83d\udcdc",
+      "emoji": "📜",
       "tag": "memory",
       "status": "Ready",
       "version": "1.0.1",
@@ -50,7 +50,7 @@
     {
       "name": "Flux Capacitor",
       "repo": "smouj/Flux-Capacitor",
-      "emoji": "\u26a1",
+      "emoji": "⚡",
       "tag": "optimization",
       "status": "Ready",
       "version": "1.0.1",
@@ -59,7 +59,7 @@
     {
       "name": "Genome Weaver",
       "repo": "smouj/Genome-Weaver",
-      "emoji": "\ud83e\uddec",
+      "emoji": "🧬",
       "tag": "evolution",
       "status": "Ready",
       "version": "1.0.1",
@@ -68,7 +68,7 @@
     {
       "name": "Mirror Council",
       "repo": "smouj/Mirror-Council",
-      "emoji": "\ud83e\udde0",
+      "emoji": "🧠",
       "tag": "multi-agent",
       "status": "Ready",
       "version": "1.0.1",
@@ -77,7 +77,7 @@
     {
       "name": "Phoenix Reborn",
       "repo": "smouj/Phoenix-Reborn",
-      "emoji": "\ud83d\udd04",
+      "emoji": "🔄",
       "tag": "reliability",
       "status": "Ready",
       "version": "1.0.1",
@@ -86,7 +86,7 @@
     {
       "name": "Provenance Guard",
       "repo": "smouj/Provenance-Guard",
-      "emoji": "\ud83e\uddfe",
+      "emoji": "🧾",
       "tag": "supply-chain-security",
       "status": "Ready",
       "version": "1.0.1",
@@ -95,7 +95,7 @@
     {
       "name": "SLO Warden",
       "repo": "smouj/SLO-Warden",
-      "emoji": "\ud83d\udcc8",
+      "emoji": "📈",
       "tag": "reliability-operations",
       "status": "Ready",
       "version": "1.0.1",
@@ -104,7 +104,7 @@
     {
       "name": "Shadow Ledger",
       "repo": "smouj/Shadow-Ledger",
-      "emoji": "\ud83c\udf11",
+      "emoji": "🌑",
       "tag": "audit",
       "status": "Ready",
       "version": "1.0.1",
@@ -113,7 +113,7 @@
     {
       "name": "Vault Sentry",
       "repo": "smouj/Vault-Sentry",
-      "emoji": "\ud83d\udd10",
+      "emoji": "🔐",
       "tag": "secret-security",
       "status": "Ready",
       "version": "1.0.1",
@@ -122,7 +122,7 @@
     {
       "name": "Vuln Warden",
       "repo": "smouj/Vuln-Warden",
-      "emoji": "\ud83e\ude79",
+      "emoji": "🩹",
       "tag": "security-maintenance",
       "status": "Ready",
       "version": "1.0.1",
@@ -131,19 +131,25 @@
     {
       "name": "skill-1772229421",
       "repo": "smouj/skill-1772229421",
-      "emoji": "\u2699\ufe0f",
+      "emoji": "⚙️",
       "status": "active"
     },
     {
       "name": "skill-1772229730",
       "repo": "smouj/skill-1772229730",
-      "emoji": "\u2699\ufe0f",
+      "emoji": "⚙️",
       "status": "active"
     },
     {
       "name": "skill-1772230041",
       "repo": "smouj/skill-1772230041",
-      "emoji": "\u2699\ufe0f",
+      "emoji": "⚙️",
+      "status": "active"
+    },
+    {
+      "name": "skill-1772238243",
+      "repo": "smouj/skill-1772238243",
+      "emoji": "⚙️",
       "status": "active"
     }
   ]
