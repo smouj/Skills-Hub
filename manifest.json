@@ -187,6 +187,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "backup-manager",
+      "repo": "smouj/backup-manager-skill",
+      "emoji": "\ud83d\udca1",
+      "tag": "backup",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
