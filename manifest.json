@@ -217,6 +217,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "Api Generator",
+      "repo": "smouj/api-generator-skill",
+      "emoji": "\ud83d\udcbe",
+      "tag": "api",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
