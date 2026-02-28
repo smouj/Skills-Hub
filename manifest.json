@@ -271,6 +271,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "Prompt Engineer",
+      "repo": "smouj/prompt-engineer-skill",
+      "emoji": "\ud83c\udfaf",
+      "tag": "prompt",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
