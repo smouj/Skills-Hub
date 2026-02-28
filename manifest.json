@@ -280,15 +280,24 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
-    }
-  ,{
+    },
+    {
       "name": "skill-1772277841",
       "repo": "smouj/skill-1772277841",
-      "emoji": "⚙️",
+      "emoji": "\u2699\ufe0f",
       "tag": "automation",
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "master"
+    },
+    {
+      "name": "Metric Insights",
+      "repo": "smouj/metric-insights-skill",
+      "emoji": "\ud83d\udcc8",
+      "tag": "metric",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
