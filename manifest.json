@@ -226,6 +226,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "Data Preparator",
+      "repo": "smouj/data-prep-skill",
+      "emoji": "\ud83d\udcca",
+      "tag": "data",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
