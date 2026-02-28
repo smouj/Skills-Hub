@@ -196,6 +196,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "security-scan",
+      "repo": "smouj/security-scan-skill",
+      "emoji": "\u2728",
+      "tag": "security",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
