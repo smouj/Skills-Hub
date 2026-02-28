@@ -235,6 +235,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "Container Orchestrator",
+      "repo": "smouj/container-orch-skill",
+      "emoji": "\ud83d\udcbe",
+      "tag": "container",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
