@@ -5,7 +5,7 @@
 
 ---
 
-[![Skills](https://img.shields.io/badge/Skills-17%20registered-6f42c1?style=flat-square)](manifest.json)
+[![Skills](https://img.shields.io/badge/Skills-24%20registered-6f42c1?style=flat-square)](manifest.json)
 [![Standard](https://img.shields.io/badge/Standard-v1.0-0d1117?style=flat-square&logo=github)](TEMPLATE_SKILL.md)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-OpenClaw-blueviolet?style=flat-square)](https://github.com/smouj)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
@@ -393,6 +393,13 @@ All PRs must pass local validation before review. PRs that break existing skills
 | [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | 🌑 Audit and traceability skill |
 | [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | 🔐 Secret and credential security skill |
 | [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | 🩹 Vulnerability management skill |
+| [smouj/cloud-deploy-skill](https://github.com/smouj/cloud-deploy-skill) | 🚀 Cloud deployment skill |
+| [smouj/db-optimize-skill](https://github.com/smouj/db-optimize-skill) | 💾 Database optimization skill |
+| [smouj/seo-audit-skill](https://github.com/smouj/seo-audit-skill) | 🔍 SEO audit skill |
+| [smouj/log-analyze-skill](https://github.com/smouj/log-analyze-skill) | 📊 Log analysis skill |
+| [smouj/backup-manager-skill](https://github.com/smouj/backup-manager-skill) | 💰 Backup management skill |
+| [smouj/security-scan-skill](https://github.com/smouj/security-scan-skill) | 🛡️ Security scanning skill |
+| [smouj/test-gen-skill](https://github.com/smouj/test-gen-skill) | 🧪 Test generation skill |
 
 > Full catalog: [`manifest.json`](manifest.json)
 
