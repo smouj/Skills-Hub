@@ -378,26 +378,36 @@ All PRs must pass local validation before review. PRs that break existing skills
 ## Ecosystem Links
 
 | Repository | Description |
-| [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | 💾 container-orch skill |
 |---|---|
-| [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | 🔍 OSINT reconnaissance skill |
-| [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | 🛡️ Security hardening skill |
-| [smouj/alchemurgist](https://github.com/smouj/alchemurgist) | 🧪 Data transformation skill |
-| [smouj/Chrono-Ward](https://github.com/smouj/Chrono-Ward) | ⏳ Planning and scheduling skill |
-| [smouj/Codex-Eternal](https://github.com/smouj/Codex-Eternal) | 📜 Memory and knowledge management skill |
-| [smouj/Flux-Capacitor](https://github.com/smouj/Flux-Capacitor) | ⚡ Performance optimization skill |
-| [smouj/Genome-Weaver](https://github.com/smouj/Genome-Weaver) | 🧬 Evolutionary design skill |
-| [smouj/Mirror-Council](https://github.com/smouj/Mirror-Council) | 🧠 Multi-agent deliberation skill |
-| [smouj/Phoenix-Reborn](https://github.com/smouj/Phoenix-Reborn) | 🔄 Reliability and recovery skill |
-| [smouj/Provenance-Guard](https://github.com/smouj/Provenance-Guard) | 🧾 Supply chain security skill |
-| [smouj/SLO-Warden](https://github.com/smouj/SLO-Warden) | 📈 SLO monitoring and operations skill |
-| [smouj/Shadow-Ledger](https://github.com/smouj/Shadow-Ledger) | 🌑 Audit and traceability skill |
-| [smouj/Vault-Sentry](https://github.com/smouj/Vault-Sentry) | 🔐 Secret and credential security skill |
-| [smouj/Vuln-Warden](https://github.com/smouj/Vuln-Warden) | 🩹 Vulnerability management skill |
+| [smouj/abyss-scanner-skill](https://github.com/smouj/abyss-scanner-skill) | 🔍 Abyss Scanner skill |
+| [smouj/aegis-veil-skill](https://github.com/smouj/aegis-veil-skill) | 🛡️ Aegis Veil skill |
+| [smouj/alchemurgist-skill](https://github.com/smouj/alchemurgist-skill) | 🧪 Alchemurgist skill |
+| [smouj/chrono-ward-skill](https://github.com/smouj/chrono-ward-skill) | ⏳ Chrono Ward skill |
+| [smouj/codex-eternal-skill](https://github.com/smouj/codex-eternal-skill) | 📜 Codex Eternal skill |
+| [smouj/flux-capacitor-skill](https://github.com/smouj/flux-capacitor-skill) | ⚡ Flux Capacitor skill |
+| [smouj/genome-weaver-skill](https://github.com/smouj/genome-weaver-skill) | 🧬 Genome Weaver skill |
+| [smouj/mirror-council-skill](https://github.com/smouj/mirror-council-skill) | 🧠 Mirror Council skill |
+| [smouj/phoenix-reborn-skill](https://github.com/smouj/phoenix-reborn-skill) | 🔄 Phoenix Reborn skill |
+| [smouj/provenance-guard-skill](https://github.com/smouj/provenance-guard-skill) | 🧾 Provenance Guard skill |
+| [smouj/slo-warden-skill](https://github.com/smouj/slo-warden-skill) | 📈 Slo Warden skill |
+| [smouj/shadow-ledger-skill](https://github.com/smouj/shadow-ledger-skill) | 🌑 Shadow Ledger skill |
+| [smouj/vault-sentry-skill](https://github.com/smouj/vault-sentry-skill) | 🔐 Vault Sentry skill |
+| [smouj/vuln-warden-skill](https://github.com/smouj/vuln-warden-skill) | 🩹 Vuln Warden skill |
+| [smouj/cloud-deploy-skill](https://github.com/smouj/cloud-deploy-skill) | 🚀 Cloud Deploy skill |
+| [smouj/db-optimize-skill](https://github.com/smouj/db-optimize-skill) | 💾 Db Optimize skill |
+| [smouj/seo-audit-skill](https://github.com/smouj/seo-audit-skill) | 🔍 Seo Audit skill |
+| [smouj/log-analyze-skill](https://github.com/smouj/log-analyze-skill) | 📊 Log Analyze skill |
+| [smouj/backup-manager-skill](https://github.com/smouj/backup-manager-skill) | 💰 Backup Manager skill |
+| [smouj/security-scan-skill](https://github.com/smouj/security-scan-skill) | 🛡️ Security Scan skill |
+| [smouj/test-gen-skill](https://github.com/smouj/test-gen-skill) | 🧪 Test Gen skill |
+| [smouj/api-docs-skill](https://github.com/smouj/api-docs-skill) | 📋 Api Docs skill |
+| [smouj/ci-cd-pipeline-skill](https://github.com/smouj/ci-cd-pipeline-skill) | ⚙️ Ci Cd Pipeline skill |
+| [smouj/threat-detect-skill](https://github.com/smouj/threat-detect-skill) | 🎯 Threat Detect skill |
+| [smouj/api-generator-skill](https://github.com/smouj/api-generator-skill) | 🧠 Api Generator skill |
+| [smouj/data-prep-skill](https://github.com/smouj/data-prep-skill) | 📊 Data Prep skill |
+| [smouj/container-orch-skill](https://github.com/smouj/container-orch-skill) | 🐳 Container Orch skill |
 
-> Full catalog: [`manifest.json`](manifest.json)
-
----
+## License
 
 ## License
 
