@@ -178,6 +178,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "log-analyze",
+      "repo": "smouj/log-analyze-skill",
+      "emoji": "\ud83d\ude80",
+      "tag": "log",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
