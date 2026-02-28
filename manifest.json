@@ -298,6 +298,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "Secret Rotator",
+      "repo": "smouj/secret-rotation-skill",
+      "emoji": "\ud83d\udcbe",
+      "tag": "secret",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
