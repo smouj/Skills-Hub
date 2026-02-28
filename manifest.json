@@ -169,6 +169,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "seo-audit",
+      "repo": "smouj/seo-audit-skill",
+      "emoji": "\ud83d\udd27",
+      "tag": "seo",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
