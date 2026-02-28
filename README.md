@@ -378,6 +378,7 @@ All PRs must pass local validation before review. PRs that break existing skills
 ## Ecosystem Links
 
 | Repository | Description |
+| [smouj/ci-cd-pipeline-skill](https://github.com/smouj/ci-cd-pipeline-skill) | 📋 Ci Cd Pipeline skill |
 |---|---|
 | [smouj/Abyss-Scanner](https://github.com/smouj/Abyss-Scanner) | 🔍 OSINT reconnaissance skill |
 | [smouj/Aegis-Veil](https://github.com/smouj/Aegis-Veil) | 🛡️ Security hardening skill |
