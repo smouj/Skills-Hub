@@ -160,6 +160,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "db-optimize",
+      "repo": "smouj/db-optimize-skill",
+      "emoji": "\ud83d\udcca",
+      "tag": "db",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
