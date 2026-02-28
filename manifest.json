@@ -190,6 +190,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "api-docs",
+      "repo": "smouj/api-docs-skill",
+      "emoji": "\ud83d\udee1\ufe0f",
+      "tag": "api",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
