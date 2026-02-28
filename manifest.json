@@ -199,6 +199,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "Ci Cd Pipeline",
+      "repo": "smouj/ci-cd-pipeline-skill",
+      "emoji": "\ud83d\udccb",
+      "tag": "ci",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
