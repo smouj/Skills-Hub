@@ -378,6 +378,7 @@ All PRs must pass local validation before review. PRs that break existing skills
 ## Ecosystem Links
 
 | Repository | Description |
+| [smouj/code-refactor-skill](https://github.com/smouj/code-refactor-skill) | ⚡ Code Refactorer skill |
 |---|---|
 | [smouj/abyss-scanner-skill](https://github.com/smouj/abyss-scanner-skill) | 🔍 Abyss Scanner skill |
 | [smouj/aegis-veil-skill](https://github.com/smouj/aegis-veil-skill) | 🛡️ Aegis Veil skill |
