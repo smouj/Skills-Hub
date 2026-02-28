@@ -5,7 +5,7 @@
     {
       "name": "Abyss Scanner",
       "repo": "smouj/Abyss-Scanner",
-      "emoji": "🔍",
+      "emoji": "\ud83d\udd0d",
       "tag": "osint",
       "status": "Ready",
       "version": "1.0.1",
@@ -14,7 +14,7 @@
     {
       "name": "Aegis Veil",
       "repo": "smouj/Aegis-Veil",
-      "emoji": "🛡️",
+      "emoji": "\ud83d\udee1\ufe0f",
       "tag": "security",
       "status": "Ready",
       "version": "1.0.1",
@@ -23,7 +23,7 @@
     {
       "name": "Alchemurgist",
       "repo": "smouj/Alchemurgist",
-      "emoji": "🧪",
+      "emoji": "\ud83e\uddea",
       "tag": "transformation",
       "status": "Ready",
       "version": "1.0.1",
@@ -32,7 +32,7 @@
     {
       "name": "Chrono Ward",
       "repo": "smouj/Chrono-Ward",
-      "emoji": "⏳",
+      "emoji": "\u23f3",
       "tag": "planning",
       "status": "Ready",
       "version": "1.0.1",
@@ -41,7 +41,7 @@
     {
       "name": "Codex Eternal",
       "repo": "smouj/Codex-Eternal",
-      "emoji": "📜",
+      "emoji": "\ud83d\udcdc",
       "tag": "memory",
       "status": "Ready",
       "version": "1.0.1",
@@ -50,7 +50,7 @@
     {
       "name": "Flux Capacitor",
       "repo": "smouj/Flux-Capacitor",
-      "emoji": "⚡",
+      "emoji": "\u26a1",
       "tag": "optimization",
       "status": "Ready",
       "version": "1.0.1",
@@ -59,7 +59,7 @@
     {
       "name": "Genome Weaver",
       "repo": "smouj/Genome-Weaver",
-      "emoji": "🧬",
+      "emoji": "\ud83e\uddec",
       "tag": "evolution",
       "status": "Ready",
       "version": "1.0.1",
@@ -68,7 +68,7 @@
     {
       "name": "Mirror Council",
       "repo": "smouj/Mirror-Council",
-      "emoji": "🧠",
+      "emoji": "\ud83e\udde0",
       "tag": "multi-agent",
       "status": "Ready",
       "version": "1.0.1",
@@ -77,7 +77,7 @@
     {
       "name": "Phoenix Reborn",
       "repo": "smouj/Phoenix-Reborn",
-      "emoji": "🔄",
+      "emoji": "\ud83d\udd04",
       "tag": "reliability",
       "status": "Ready",
       "version": "1.0.1",
@@ -86,7 +86,7 @@
     {
       "name": "Provenance Guard",
       "repo": "smouj/Provenance-Guard",
-      "emoji": "🧾",
+      "emoji": "\ud83e\uddfe",
       "tag": "supply-chain-security",
       "status": "Ready",
       "version": "1.0.1",
@@ -95,7 +95,7 @@
     {
       "name": "SLO Warden",
       "repo": "smouj/SLO-Warden",
-      "emoji": "📈",
+      "emoji": "\ud83d\udcc8",
       "tag": "reliability-operations",
       "status": "Ready",
       "version": "1.0.1",
@@ -104,7 +104,7 @@
     {
       "name": "Shadow Ledger",
       "repo": "smouj/Shadow-Ledger",
-      "emoji": "🌑",
+      "emoji": "\ud83c\udf11",
       "tag": "audit",
       "status": "Ready",
       "version": "1.0.1",
@@ -113,7 +113,7 @@
     {
       "name": "Vault Sentry",
       "repo": "smouj/Vault-Sentry",
-      "emoji": "🔐",
+      "emoji": "\ud83d\udd10",
       "tag": "secret-security",
       "status": "Ready",
       "version": "1.0.1",
@@ -122,7 +122,7 @@
     {
       "name": "Vuln Warden",
       "repo": "smouj/Vuln-Warden",
-      "emoji": "🩹",
+      "emoji": "\ud83e\ude79",
       "tag": "security-maintenance",
       "status": "Ready",
       "version": "1.0.1",
@@ -131,26 +131,35 @@
     {
       "name": "skill-1772229421",
       "repo": "smouj/skill-1772229421",
-      "emoji": "⚙️",
+      "emoji": "\u2699\ufe0f",
       "status": "active"
     },
     {
       "name": "skill-1772229730",
       "repo": "smouj/skill-1772229730",
-      "emoji": "⚙️",
+      "emoji": "\u2699\ufe0f",
       "status": "active"
     },
     {
       "name": "skill-1772230041",
       "repo": "smouj/skill-1772230041",
-      "emoji": "⚙️",
+      "emoji": "\u2699\ufe0f",
       "status": "active"
     },
     {
       "name": "skill-1772238243",
       "repo": "smouj/skill-1772238243",
-      "emoji": "⚙️",
+      "emoji": "\u2699\ufe0f",
       "status": "active"
+    },
+    {
+      "name": "cloud-deploy",
+      "repo": "smouj/cloud-deploy-skill",
+      "emoji": "\ud83d\udca1",
+      "tag": "cloud",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
