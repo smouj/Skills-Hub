@@ -316,6 +316,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "perf-monitor",
+      "repo": "smouj/perf-monitor-skill",
+      "emoji": "\ud83e\udde0",
+      "tag": "perf",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
