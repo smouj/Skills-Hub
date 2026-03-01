@@ -325,6 +325,15 @@
       "status": "Ready",
       "version": "1.0.0",
       "defaultBranch": "main"
+    },
+    {
+      "name": "quantum-mock",
+      "repo": "smouj/quantum-mock-skill",
+      "emoji": "\ud83e\udde0",
+      "tag": "quantum",
+      "status": "Ready",
+      "version": "1.0.0",
+      "defaultBranch": "main"
     }
   ]
 }
